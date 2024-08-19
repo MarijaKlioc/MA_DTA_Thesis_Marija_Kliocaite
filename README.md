@@ -3,7 +3,7 @@
 The repository is structured in the following way:
 
 Readme.md - information about the repository
-Marija_Kliocaite_MA_DTA_Thesis.pdf - the completed thesis in PDF format.
+Marija_Kliocaite_DTA_MA_Thesis.pdf - the completed thesis in PDF format.
 
 BERT_RoBERTa_Baselines -- consists of 3 notebooks with baseline experiments of BERT and RoBERTa models on three different seeds. The back-translated dataset is obtained at the start of each notebook. The models in these notebooks are trained on half of the gold standard data, complete gold standard data and augmented (through back-tranlsation) gold standard data. All files necessary for running the code, as well as those generated as a result, are located in the same directory.
 
